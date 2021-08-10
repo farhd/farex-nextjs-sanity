@@ -1,0 +1,1 @@
+# farex-nextjs-sanity-studio
